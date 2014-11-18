@@ -3,6 +3,8 @@ composer.lock
 composer.phar
 .DS_Store
 testing/
+nbproject/
+nbproject/*
 nbproject/private/
 test/log
 build
